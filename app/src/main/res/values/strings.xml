@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="edit_text_name">Name</string>
+    <string name="edit_text_number">Number</string>
+    <string name="dialog">Do you want make call or message ?</string>
+    <string name="calldialog">Call</string>
+    <string name="messagedialog">Message send</string>
+    <string name="addContact">ADD</string>
+</resources>
